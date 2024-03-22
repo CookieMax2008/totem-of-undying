@@ -1,12 +1,12 @@
 # totem-of-undying
 Create by LunarClient</br> </br>
-link : <a href>lunarclient.com/tools</a>
+link : <a href=https://lunarclient.com/tools>lunarclient.com/tools</a> </br> </br> </br> </br>
 
-A very big thanks for them !
+<em> **A very big thanks for them !** </em> </br> </br>
 
-For Take a dossier with your skin, ping me in chat...
+*For Take a dossier with your skin, ping me in chat...* </br> </br>
 
-Bye.
+Bye. </br> </br>
 
-CookieMax2008
-Founder of this page github.com
+**CookieMax2008** </br>
+*Founder of this page github.com*
